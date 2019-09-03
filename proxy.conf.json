@@ -1,0 +1,7 @@
+{  
+    "/rmf": {  
+       "target": "https://online.reliancemf.com",  
+       "secure": false,  
+       "logLevel": "debug"  
+    }  
+ }
